@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ 
+body {
+    background-color: #1F2937;
+    text-align: center
+}
+
+img {
+    width: 400px;
+}
+
+.header-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 150px;
+    margin-left: 250px;
+}
+
+a {
+    color: #e5e7eb;
+    text-decoration: none;
+    font-size: 18px;
+    flex: 1;
+}
+
+nav {
+    background-color: #1F2937;
+}
+
+.header-sections {
+    display: flex;
+   
+    width: 500px;
+}
