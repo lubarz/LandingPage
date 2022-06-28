@@ -6,7 +6,12 @@
  
 body {
     background-color: #1F2937;
-    text-align: center
+    
+    
+}
+
+header {
+    margin-bottom: 100px;
 }
 
 img {
@@ -41,16 +46,40 @@ nav {
 
 /* SECTION 1 */
 
-.awesome-title {
-    color: #f9faf8;
-    font-size: 48px;
-    font-weight: bolder;
+
+
+.section-1 {
+    border: 1px solid red;
+    display: flex;
+    margin: 50px 150px;
+    margin-bottom: 100px;
 }
+
+
 
 .section-1 p {
 
     font-size: 18px;
     color: #e5e7eb;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+.flexbox-1 {
+    border: 1px solid blue;
+    
+
+    
+}
+
+.awesome-title {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+    margin-bottom: 10px;
 }
 
 .awesome-button {
@@ -59,12 +88,17 @@ nav {
     font-weight: bold;
     color: #e5e7eb;
     padding: 5px 25px;
+    border-radius: 8px;
+    border-style: none;
+    
 }
 
-.section-1 {
-    border: 1px solid red;
+.flexbox-2 {
+    margin-left: 200px;
 }
 
-.flexbox-1 {
-    border: 1px solid blue;
+/* SECTION 2 */
+
+.section-2 {
+    background-color: #f9faf8;
 }
