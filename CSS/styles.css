@@ -49,7 +49,7 @@ nav {
 
 
 .section-1 {
-    border: 1px solid red;
+    
     display: flex;
     margin: 50px 150px;
     margin-bottom: 100px;
@@ -69,7 +69,7 @@ nav {
 
 
 .flexbox-1 {
-    border: 1px solid blue;
+   
     
 
     
@@ -100,5 +100,16 @@ nav {
 /* SECTION 2 */
 
 .section-2 {
+    margin: ;
+}
+
+.bg-colour {
     background-color: #f9faf8;
+}
+
+.info-title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+
 }
