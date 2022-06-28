@@ -61,3 +61,10 @@ nav {
     padding: 5px 25px;
 }
 
+.section-1 {
+    border: 1px solid red;
+}
+
+.flexbox-1 {
+    border: 1px solid blue;
+}
