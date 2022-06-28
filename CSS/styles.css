@@ -17,7 +17,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 10px 150px;
+    margin: 5px 150px;
     margin-left: 250px;
 }
 
@@ -40,3 +40,16 @@ nav {
 
 
 /* SECTION 1 */
+
+.awesome-title {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.section-1 p {
+
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
