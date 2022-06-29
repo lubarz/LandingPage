@@ -144,12 +144,13 @@ nav {
 
 .review {
     text-align: center;
+    padding: 100px;
 }
 
 .inspi-quote {
     font-size: 36px;
-    padding: 100px;
+    
     font-weight: light;
     font-style: italic;
-    margin: 0 200px;
+    
 }
