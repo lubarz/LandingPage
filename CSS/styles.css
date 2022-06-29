@@ -140,17 +140,26 @@ nav {
 
 .section-3 {
     background-color: #e5e7eb;
+    padding: 125px;
 }
 
 .review {
     text-align: center;
-    padding: 100px;
+    margin: 0 150px
+    
 }
 
 .inspi-quote {
     font-size: 36px;
-    
     font-weight: light;
     font-style: italic;
+    color: #1F2937;
+    margin-bottom: 10px;
     
+}
+
+.person-1 {
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 450px;
 }
